@@ -14,8 +14,6 @@ import (
 	"time"
 )
 
-//0ad080191c3c4532997c33c2e4fc9da7
-
 type Source struct {
 	ID   interface{} `json:"id"`
 	Name string      `json:"name"`
